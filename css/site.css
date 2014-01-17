@@ -8,3 +8,6 @@ body {
     max-width: 960px;
     margin: 0 auto;
 }
+
+header > h1 {
+    border-bottom: 1px solid #E9E9E9;
