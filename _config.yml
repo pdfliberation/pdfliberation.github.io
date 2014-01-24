@@ -1,3 +1,4 @@
 name: PDF Liberation
+description: PDF Liberation is a shared space for creating better tools and techniques for extracting large volumes of data from PDFs.
 markdown: kramdown
 pygments: true
